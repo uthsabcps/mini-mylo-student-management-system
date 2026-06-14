@@ -16,7 +16,8 @@ Technologies:
 - Enums
 - Object-Oriented Programming
 
-Author
+# Author
+
 Uthsab Chandra Paul Sajib
 
 Bachelor of Infromation and Communication Technology (Major in Artificial Intelligence)
