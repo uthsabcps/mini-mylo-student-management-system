@@ -1,5 +1,3 @@
-# mini-mylo-student-management-system
-A Python-based student management system inspired by the University of Tasmania MyLO platform.
 # Mini MyLO Student Management System
 
 A Python-based student management system developed as part of my Bachelor of ICT (Artificial Intelligence) at the University of Tasmania.
