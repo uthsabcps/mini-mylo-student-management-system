@@ -1,5 +1,5 @@
 """
-7.4CR Task: Mini MyLO Student Management System
+Task: Mini MyLO Student Management System
 
 The program simulates a simplified version of the MyLO student system. It allows users to 
 manage university-related information including units, assignments, study sessions, assingments.
